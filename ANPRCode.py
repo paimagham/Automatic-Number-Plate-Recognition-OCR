@@ -2,7 +2,7 @@ import cv2
 import pytesseract
 
 # Load the image
-img = cv2.imread('/Users/paimaghamsaibhavithareddy/Desktop/MLProjects/ANPR/car1.jpg')
+img = cv2.imread('Your Path')
 
 # Check if the image was loaded successfully
 if img is None:
