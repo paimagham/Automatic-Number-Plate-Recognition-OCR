@@ -4,7 +4,7 @@ import pytesseract
 import matplotlib.pyplot as plt
 
 # Load the image
-img = cv2.imread('Your Path')
+img = cv2.imread('images/car1.jpg')
 
 # Check if the image was loaded successfully
 if img is None:
