@@ -1,6 +1,5 @@
 import cv2
 import pytesseract
-import matplotlib.pyplot as plt
 
 # Load the image
 img = cv2.imread('/Users/paimaghamsaibhavithareddy/Desktop/MLProjects/ANPR/car1.jpg')
