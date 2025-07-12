@@ -10,7 +10,6 @@ if img is None:
 else:
     # Display original image
     print("Original Image:")
-    plt.imshow(cv2.cvtColor(img, cv2.COLOR_BGR2RGB))
     cv2.imshow("Original Image", img)
     cv2.waitKey(2000)  # waits for 2 seconds
     cv2.destroyAllWindows()
