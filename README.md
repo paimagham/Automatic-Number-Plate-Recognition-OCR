@@ -34,7 +34,7 @@ Pytesseract (Tesseract OCR)<br>
 <pre>ANPR_OCR
 ├── car1.jpg              # Input image of a car (MUST be added after cloning)
 ├── 7.png                 # Cropped license plate (generated at runtime)
-├── anpr_ocr.py           # Python script
+├── main.py           # Python script
 ├── README.md             # Project documentation
 └── LICENSE               # MIT License</pre>
 
