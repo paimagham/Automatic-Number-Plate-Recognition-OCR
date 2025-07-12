@@ -65,15 +65,6 @@ Contours ➝ Plate contour detected
 Cropped Image ➝ Plate area extracted and saved
 OCR Result ➝ Extracted text from number plate: Number plate is: MH12DE1XXX</pre>
 
-# Real-World Applications
-
-Vehicle tracking systems<br>
-Smart parking systems<br>
-Law enforcement and traffic monitoring<br>
-Toll booth automation<br>
-
-As noted in the OCR paper, ANPR is a leading practical application of OCR technology, alongside uses like document scanning, passport reading, and signature verification.
-
 # License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
